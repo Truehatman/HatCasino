@@ -1,0 +1,52 @@
+Uri: https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Play&display=swap
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/goldman/v19/pe0rMIWbN4JFplR2FI5XItc.ttf
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\s\goldman\v19\pe0rMIWbN4JFplR2FI5XItc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/goldman/v19/pe0uMIWbN4JFplR2LDI.ttf
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\s\goldman\v19\pe0uMIWbN4JFplR2LDI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/play/v19/6aez4K2oVqwIjtI.ttf
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\s\play\v19\6aez4K2oVqwIjtI.ttf
+Content Type: font/ttf
+
+Uri: https://stake.financialplugins.com/
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\index.htm
+Content Type: text/html
+
+Uri: https://stake.financialplugins.com/css/style-udf.css
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\css\style-udf.css
+Content Type: text/css
+
+Uri: https://stake.financialplugins.com/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://stake.financialplugins.com/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://stake.financialplugins.com/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://stake.financialplugins.com/images/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\images\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://stake.financialplugins.com/images/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\images\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://stake.financialplugins.com/js/app.js?id=a9736629760f5804752fb5ae5ca27f75
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\js\app.js
+Content Type: text/javascript
+
+Uri: https://stake.financialplugins.com/manifest.json
+File Name: C:\Downloaded Web Sites\stake.financialplugins.com\manifest.json
+Content Type: application/json
+
